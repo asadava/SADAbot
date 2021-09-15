@@ -1,10 +1,4 @@
 # SADAbot
-
-## --- WARNING ---
-You need to change the directories in the text to speech apps to ones that you can use. This goes for ALL TTS apps like these.<br/>
-![directories 2 change](https://github.com/asadava/SADAbot/blob/main/dirDRAW.jpg)
-## --- WARNING ---
-
 ## The next horrible breakthrough in technology.
 - A program I made inspired by SoulMachines, and my sister. She thought, "asadava, make a robot that cusses you out". I wanted to show my family this, so I made it clean, and here we are now, with this "thing".
 ## God is dead, and we can't bring him back.
