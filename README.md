@@ -7,3 +7,7 @@
 - No comment.
 ## Why is there so many comments in your code?
 - I made these to show to my friends and family, who don't understand Python
+## Why do you want it to show a person talking?
+- My sister does, NOT me.
+## What's in the next update?
+- Why would you need to know?
